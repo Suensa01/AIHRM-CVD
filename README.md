@@ -61,30 +61,30 @@ Generated plots:
 AIHRM-CVD/
 │
 ├── data/
-│   ├── HeartDiseaseTrain-Test.csv
-│   └── processed.pkl
+│ ├── HeartDiseaseTrain-Test.csv
+│ └── processed.pkl
 │
 ├── models/
-│   ├── aihrm_cvd_model.pkl
-│   └── scaler.pkl
+│ ├── aihrm_cvd_model.pkl
+│ └── scaler.pkl
 │
 ├── outputs/
-│   ├── metrics/
-│   │   ├── baseline_results.csv
-│   │   └── aihrm_results.csv
-│   │
-│   └── plots/
-│       ├── f1_comparison.png
-│       ├── confusion_matrix.png
-│       └── roc_curve.png
+│ ├── metrics/
+│ │ ├── baseline_results.csv
+│ │ └── aihrm_results.csv
+│ │
+│ └── plots/
+│ ├── f1_comparison.png
+│ ├── confusion_matrix.png
+│ └── roc_curve.png
 │
 ├── src/
-│   ├── 01_preprocessing.py
-│   ├── 02_baseline_models.py
-│   ├── 03_aihrm_model.py
-│   ├── 04_visualization.py
-│   ├── 05_advanced_plots.py
-│   └── check_data.py
+│ ├── 01_preprocessing.py
+│ ├── 02_baseline_models.py
+│ ├── 03_aihrm_model.py
+│ ├── 04_visualization.py
+│ ├── 05_advanced_plots.py
+│ └── check_data.py
 │
 └── README.md
 
